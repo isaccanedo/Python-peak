@@ -1,0 +1,2 @@
+# Python-peak
+:fire: Encontrar o pico de uma lista unimodal usando dividir para conquistar. Uma matriz unimodal é definida da seguinte maneira: a matriz está aumentando até o índice p e, em seguida, diminuindo. (para p> = 1) Uma solução óbvia pode ser realizada em O (n), para encontrar o máximo da matriz. (De Kleinberg e Tardos. Algorithm Design. Addison Wesley 2006: Capítulo 5 Resolvido Exercício 1)
